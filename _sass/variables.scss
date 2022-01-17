@@ -8,11 +8,11 @@ $medium-breakpoint: 42em !default;
 //$header-bg-color-secondary: #155799 !default;
 
 $header-heading-color: #fff !default;
-$header-bg-color: #991557 !default;
-$header-bg-color-secondary: #991557 !default;
+$header-bg-color: #159957 !default; // Updated
+$header-bg-color-secondary: #991557 !default; // Updated
 
 // Text
-$section-headings-color: #159957 !default;
+$section-headings-color: #991557 !default; // Before: #159957
 $body-text-color: #606c71 !default;
 $body-link-color: #1e6bb8 !default;
 $blockquote-text-color: #819198 !default;
